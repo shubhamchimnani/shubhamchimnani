@@ -51,7 +51,7 @@
 
 | Project | Description |
 |--------|-------------|
-| [🧠 Multiple Disease Prediction System](https://github.com/yourusername/yourproject) | ML-based healthcare prediction using trained models |
+| [🧠 Multiple Disease Prediction System](https://github.com/shubhamchimnani/github-profile-finder) | GitHub Profile Finder |
 | [💬 Chat & Video Call App](https://github.com/yourusername/yourproject) | Full-stack communication platform, production-ready |
 | [📋 Task Manager App](https://github.com/yourusername/yourproject) | Intuitive UI, reminders & scheduling features |
 | [📍 Real-Time Tracker (Backend)](https://github.com/yourusername/yourproject) | Real-time tracking logic built with Node & Socket.io |
