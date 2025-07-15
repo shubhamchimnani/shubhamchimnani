@@ -59,16 +59,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shubhamchimnani30&show_icons=true&theme=tokyonight" alt="Shubham's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamchimnani30&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
-
----
-
 ### 🤝 Let's Connect
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/shubhamchimnani)
