@@ -12,24 +12,50 @@
 
 ---
 
-### 👨‍💻 About Me
+### 🧑‍💻 About Me
 
-- 🎓 CSE student at **Shoolini University** (5th semester)
-- 🌐 Passionate about **Full-Stack Development**, **System Design**, and **Data Analytics**
-- 📊 Skilled in: SQL, Power BI, Pandas, NumPy, Matplotlib, Seaborn
-- ⚙️ Experienced with: React, Node.js, MongoDB, MySQL, REST APIs
+- 🎓 I'm a 5th-semester **CSE student at Shoolini University**
+- 🌐 Passionate about **Full-Stack Development, System Design, and AI**
+- 📊 Skilled in **Data Analysis** with Power BI, SQL, Pandas, NumPy, Seaborn, and Matplotlib
+- 🧠 Constantly learning and building with **React**, **Node.js**, and modern web tools
+- 🏆 **Postman Student Expert**, **Design Thinking Certified**, and **SEO Specialist**
 
 ---
 
-### 🔥 Latest Projects
+### 🔥 Tech Stack
+
+**Languages:**  
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) 
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python) 
+![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=cplusplus)
+
+**Frontend:**  
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) 
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwind-css)
+
+**Backend & DB:**  
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js) 
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)  
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+
+**Data Science:**  
+![Power BI](https://img.shields.io/badge/-Power%20BI-black?style=flat-square&logo=powerbi)  
+![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas)  
+![Seaborn](https://img.shields.io/badge/-Seaborn-black?style=flat-square)  
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-black?style=flat-square)  
+![NumPy](https://img.shields.io/badge/-NumPy-black?style=flat-square&logo=numpy)
+
+---
+
+### 📌 Featured Projects
 
 | Project | Description |
 |--------|-------------|
-| [💬 Chat & Video Call App](https://github.com/shubhamchimnani/Streamify_Chat_and_Call) | Full-stack production-ready communication platform |
-| [📋 Task Manager App](https://github.com/shubhamchimnani) | Dashboard with scheduling and productivity tracking |
-| [📍 Real-Time Tracker (Backend)](https://github.com/shubhamchimnani) | Real-time backend system with location tracking |
-| [✨ CSS Animations](https://github.com/shubhamchimnani) | Custom animations using advanced CSS techniques |
-| [🔧 Exploring Libraries](https://github.com/shubhamchimnani/Gemini-clone) | Working with Lenis, ReactBits & more UI/UX tools |
+| [🧠 Multiple Disease Prediction System](https://github.com/yourusername/yourproject) | ML-based healthcare prediction using trained models |
+| [💬 Chat & Video Call App](https://github.com/yourusername/yourproject) | Full-stack communication platform, production-ready |
+| [📋 Task Manager App](https://github.com/yourusername/yourproject) | Intuitive UI, reminders & scheduling features |
+| [📍 Real-Time Tracker (Backend)](https://github.com/yourusername/yourproject) | Real-time tracking logic built with Node & Socket.io |
+| [✨ CSS Animation Playground](https://github.com/yourusername/yourproject) | Smooth micro-interactions and UI animation experiments |
 
 ---
 
@@ -42,4 +68,12 @@
 
 ---
 
-> *“I build with purpose and passion. Let’s create something impactful!”*
+### 🤝 Let's Connect
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/shubhamchimnani)
+- 📬 Email: shubhamchimnani30@gmail.com
+
+---
+
+> *“Striving to build clean, scalable solutions and grow as a modern technologist.”*
+
