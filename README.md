@@ -52,7 +52,7 @@
 | Project | Description |
 |--------|-------------|
 | [🧠 GitHub Profile Finder](https://github.com/shubhamchimnani/github-profile-finder) | Find and display GitHub profiles using public API |
-| [💬 Chat & Video Call App](https://github.com/shubhamchimnani/Streamify_Chat_and_Call) | Full-stack, production-ready communication platform |
+| [💬 Chat & Video Call App](https://github.com/shubhamchimnani/Streamify_Chat_and_Call_App) | Full-stack, production-ready communication platform |
 | [🧪 Gemini Clone](https://github.com/shubhamchimnani/Gemini-clone) | Gemini-inspired UI with smooth transitions |
 | [📍 Real-Time Tracker (Backend)](https://github.com/shubhamchimnani/Realtime-tracker) | Real-time location tracking using Node.js & Socket.io |
 | [🔐 Clerk Auth Integration](https://github.com/shubhamchimnani/vite-react-clerk-auth) | Seamless authentication using Clerk in Vite + React |
