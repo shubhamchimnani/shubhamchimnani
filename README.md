@@ -8,6 +8,9 @@
   <a href="mailto:shubhamchimnani30@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://portfolio-psi-seven-a3dvbsk8r0.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -63,6 +66,7 @@
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/shubhamchimnani)
 - 📬 Email: [shubhamchimnani30@gmail.com](mailto:shubhamchimnani30@gmail.com)
+- 🌐 Portfolio: [portfolio-psi-seven-a3dvbsk8r0.vercel.app](https://portfolio-psi-seven-a3dvbsk8r0.vercel.app/)
 
 ---
 
