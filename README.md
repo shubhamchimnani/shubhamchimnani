@@ -1,73 +1,35 @@
-<h1 align="center">Hi 👋, I'm Shubham Chimnani</h1>
-<h3 align="center">🚀 Aspiring Software Developer | AI & Web Enthusiast | Data & Digital Strategist</h3>
+<div align="center">
 
-<p align="center">
+  <!-- Animated Typewriter Header -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=61AFEF&center=true&vcenter=true&width=550&lines=Hi+%F0%9F%90%8B%2C+I'm+Shubham+Chimnani;Aspiring+Software+Developer;Full-Stack+%26+AI+Enthusiast;Data+%26+Digital+Strategist" alt="Typing SVG" />
+  </a>
+
+  <p align="center">
+    🎓 <b>CSE Student @ Shoolini University</b> • 💻 <b>Building Scalable Web Apps & AI Tools</b>
+  </p>
+
+  <!-- Glowing Badges -->
   <a href="https://www.linkedin.com/in/shubhamchimnani" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:shubhamchimnani30@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://portfolio-psi-seven-a3dvbsk8r0.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
-</p>
 
----
+</div>
+
+<br />
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-db036000-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Header Divider" />
 
 ### 🧑‍💻 About Me
 
-- 🎓 I'm a 5th-semester **CSE student at Shoolini University**
-- 🌐 Passionate about **Full-Stack Development, System Design, and AI**
-- 📊 Skilled in **Data Analysis** with Power BI, SQL, Pandas, NumPy, Seaborn, and Matplotlib
-- 🧠 Constantly learning and building with **React**, **Node.js**, and modern web tools
-- 🏆 **Postman Student Expert**, **Enterprise Design Thinking Certified**, **SEO & Digital Marketing Certified**
-
----
-
-### 🔥 Tech Stack
-
-**Languages:**  
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) 
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python) 
-![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=cplusplus)
-
-**Frontend:**  
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) 
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwind-css)
-
-**Backend & DB:**  
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js) 
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)  
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-
-**Data Science & BI:**  
-![Power BI](https://img.shields.io/badge/-Power%20BI-black?style=flat-square&logo=powerbi)  
-![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas)  
-![Seaborn](https://img.shields.io/badge/-Seaborn-black?style=flat-square)  
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-black?style=flat-square)  
-![NumPy](https://img.shields.io/badge/-NumPy-black?style=flat-square&logo=numpy)
-
----
-
-### 📌 Featured Projects
-
-| Project | Description |
-|--------|-------------|
-| [🧠 GitHub Profile Finder](https://github.com/shubhamchimnani/github-profile-finder) | Find and display GitHub profiles using public API |
-| [💬 Chat & Video Call App](https://github.com/shubhamchimnani/Streamify_Chat_and_Call_App) | Full-stack, production-ready communication platform |
-| [🧪 Gemini Clone](https://github.com/shubhamchimnani/Gemini-clone) | Gemini-inspired UI with smooth transitions |
-| [📍 Real-Time Tracker (Backend)](https://github.com/shubhamchimnani/Realtime-tracker) | Real-time location tracking using Node.js & Socket.io |
-| [🔐 Clerk Auth Integration](https://github.com/shubhamchimnani/vite-react-clerk-auth) | Seamless authentication using Clerk in Vite + React |
-
----
-
-### 🤝 Let's Connect
-
-- 🔗 [LinkedIn](https://www.linkedin.com/in/shubhamchimnani)
-- 📬 Email: [shubhamchimnani30@gmail.com](mailto:shubhamchimnani30@gmail.com)
-- 🌐 Portfolio: [portfolio-psi-seven-a3dvbsk8r0.vercel.app](https://portfolio-psi-seven-a3dvbsk8r0.vercel.app/)
-
----
-
-> *“Striving to build clean, scalable solutions and grow as a modern technologist.”*
+```yaml
+Degree: CSE Student (5th Semester) @ Shoolini University
+Passions: Full-Stack Web Dev, System Design, AI Integration & Data Analytics
+Certifications: Postman Student Expert | Enterprise Design Thinking | SEO & Digital Marketing
+Current Focus: Building real-time applications & fine-tuning intelligent web services
